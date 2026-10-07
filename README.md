@@ -1,8 +1,17 @@
+<p align="center">
+  <img src="https://images.wallpapersden.com/image/download/silent-hill-2-remake-2024_bmdnaGuUmZqaraWkpJRobWllrWdma2U.jpg" alt="Silent Hill 2 Remake Utility Banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-blue?style=for-the-badge&logo=windows" />
+  <img src="https://img.shields.io/badge/Engine-Unreal%20Engine%205-orange?style=for-the-badge&logo=unrealengine" />
+  <img src="https://img.shields.io/badge/Status-Undetected%20%2F%20Stable-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Version-v1.0.0-purple?style=for-the-badge" />
+</p>
+
 # Silent Hill 2 Remake Enhancement Utility & Optimization Toolkit
 
 > **Open-source companion, performance stabilizer, and offline accessibility toolkit for Silent Hill 2 Remake. Features custom FOV controls, stutter reduction, survival item sandbox adjustments, flashlight intensity settings, and camera stabilization.**
-
-![Silent Hill 2 Remake Utility Banner](https://i.ibb.co/banner-placeholder/silent-hill-2-banner.jpg)
 
 ## 📥 DOWNLOAD
 
