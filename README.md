@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.wallpapersden.com/image/download/silent-hill-2-remake-2024_bmdnaGuUmZqaraWkpJRobWllrWdma2U.jpg" alt="Silent Hill 2 Remake Utility Banner" width="100%" />
+  <img src="banner.png" alt="Silent Hill 2 Remake Utility Banner" width="100%" />
 </p>
 
 <p align="center">
